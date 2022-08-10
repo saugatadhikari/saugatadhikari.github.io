@@ -25,6 +25,7 @@ navbar-links:
   Home: "index"
   # Publications: "publications"
   Projects: "projects"
+  Education: "education"
 
 ################
 # --- Logo --- #
