@@ -32,7 +32,7 @@ title: Education
     <div class="media-body">
        <p class="media-heading">
           <strong>School Level Education, Kavre English Secondary School, Nepal</strong><br />
-          < Apr, 2011> <br />
+          < Apr, 2011 <br />
            Grade: 91.50% <br />
           </p>
     </div>
