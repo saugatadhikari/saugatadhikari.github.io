@@ -16,7 +16,7 @@ title: Projects
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Academic Performance Analysis System, Kathmandu University.</strong><br />
+          <strong>Academic Performance Analysis System, Kathmandu University</strong><br />
           Sep, 2017 - Feb, 2018 <br />
            Developed a Machine Learning application to analyze the academic performance of students and predict the GPA based on various factors. Programming languages and tools used: Python, Tensorflow, Keras, Sci-kit learn
        </p>
