@@ -14,7 +14,7 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          Jalal Khalil, Da Yan, Lyuheng Yuan, <strong>Saugat Adhikari</strong>, Mostafa Jafarzadehfadaki, Virginia Sisiopiku and Zhe Jiang, "Realistic Urban Traffic Simulation with Ride-Hailing Services: A Revisit to Network Kernel Density Estimation (Systems Paper)", ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACMGIS), System Track, 2022 (to appear)<br />
+          Jalal Khalil, Da Yan, Lyuheng Yuan, Mostafa Jafarzadehfadaki, <strong>Saugat Adhikari</strong>, Virginia Sisiopiku and Zhe Jiang, "Realistic Urban Traffic Simulation with Ride-Hailing Services: A Revisit to Network Kernel Density Estimation (Systems Paper)", ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACMGIS), System Track, 2022 (to appear)<br />
        </p>
     </div>
 </div>
