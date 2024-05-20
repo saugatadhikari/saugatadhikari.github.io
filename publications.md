@@ -14,7 +14,7 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          Jalal Khalil, Da Yan, Lyuheng Yuan, Mostafa Jafarzadehfadaki, <strong>Saugat Adhikari</strong>, Virginia Sisiopiku and Zhe Jiang,"Realistic Urban Traffic Simulation with Ride-Hailing Services: A Revisit to Network Kernel Density Estimation (Systems Paper)", SIGSPATIAL ’22: Proceedings of the 30th International Conference on Advances in Geographic Information Systems, November 2022 Article No.: 29, Pages 1–10, https://doi.org/10.1145/3557915.3560963 (Best Paper Candidate)<br />
+          Jalal Khalil, Da Yan, Lyuheng Yuan, Mostafa Jafarzadehfadaki, <strong>Saugat Adhikari</strong>, Virginia Sisiopiku and Zhe Jiang,"Realistic Urban Traffic Simulation with Ride-Hailing Services: A Revisit to Network Kernel Density Estimation (Systems Paper)", SIGSPATIAL ’22: Proceedings of the 30th International Conference on Advances in Geographic Information Systems, November 2022 Article No.: 29, Pages 1–10, https://doi.org/10.1145/3557915.3560963 <strong>(Best Paper Candidate)</strong><br />
        </p>
     </div>
 </div>
@@ -56,7 +56,7 @@ Memory-Efficient Subgraph-Centric Framework for Efficient Subgraph Search on GPU
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          Jalal Khalil, Da Yan, Lyuheng Yuan, Jiao Han, Saugat Adhikari, Cheng Long, Yang Zhou: FSM-Explorer: An
+          Jalal Khalil, Da Yan, Lyuheng Yuan, Jiao Han, <strong>Saugat Adhikari</strong>, Cheng Long, Yang Zhou: FSM-Explorer: An
 Interactive Tool for Frequent Subgraph Pattern Mining from a Big Graph. ICDE 2024 Demo <strong>(Best Demo Paper Runner Up)</strong><br />
        </p>
     </div>
@@ -74,7 +74,7 @@ Terrain-Aware Spatial Machine Learning for Flood Mapping on Large Scale Earth Im
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          Guimu Guo, Da Yan, Lyuheng Yuan, Saugat Adhikari, Jalal Khalil, Cheng Long, and Lei Zou: G-thinkerQ: A
+          Guimu Guo, Da Yan, Lyuheng Yuan, <strong>Saugat Adhikari</strong>, Jalal Khalil, Cheng Long, and Lei Zou: G-thinkerQ: A
 General Subgraph Querying System with a Unified Task-Based Programming Model. (Under submission to TKDE Journal)<br />
        </p>
     </div>
