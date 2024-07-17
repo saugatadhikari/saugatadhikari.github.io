@@ -65,6 +65,22 @@ Interactive Tool for Frequent Subgraph Pattern Mining from a Big Graph. ICDE 202
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          Jalal Khalil, Ahmad Akhlaque, Da Yan, Lyuheng Yuan, <strong>Saugat Adhikari</strong>, Yang Zhou and Zhe Jiang: DirDense: A Tool for Mining Dense Subgraphs from a Big Directed Graph. CIKM 2024 Demo <br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          Da Yan, Lyuheng Yuan, Akhlaque Ahmad and <strong>Saugat Adhikari</strong>: Systems for Scalable Graph Analytics and Machine Learning: Trends and Methods. CIKM 2024 Tutorials <br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           <strong>Saugat Adhikari</strong>, Da Yan, Zhe Jiang, Jiao Han, Zelin Xu, Yupu Zhang, Arpan Man Sainju, Yang Zhou. Scaling
 Terrain-Aware Spatial Machine Learning for Flood Mapping on Large Scale Earth Imagery Data. (Under submission to ACM TSAS Journal)<br />
        </p>
