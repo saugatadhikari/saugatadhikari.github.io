@@ -65,6 +65,14 @@ Interactive Tool for Frequent Subgraph Pattern Mining from a Big Graph. ICDE 202
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
+          <strong>Saugat Adhikari</strong>: GeoAI for Natural Disaster Assessment. CIKM 2024 PhD Symposium (accepted and to appear) <br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
           Jalal Khalil, Ahmad Akhlaque, Da Yan, Lyuheng Yuan, <strong>Saugat Adhikari</strong>, Yang Zhou and Zhe Jiang: DirDense: A Tool for Mining Dense Subgraphs from a Big Directed Graph. CIKM 2024 Demo <br />
        </p>
     </div>
