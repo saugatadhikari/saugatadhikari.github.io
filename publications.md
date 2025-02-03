@@ -65,7 +65,7 @@ Interactive Tool for Frequent Subgraph Pattern Mining from a Big Graph. ICDE 202
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Saugat Adhikari</strong>: GeoAI for Natural Disaster Assessment. CIKM 2024 PhD Symposium (accepted and to appear) <br />
+          <strong>Saugat Adhikari</strong>: GeoAI for Natural Disaster Assessment. CIKM 2024 PhD Symposium <br />
        </p>
     </div>
 </div>
@@ -90,7 +90,7 @@ Interactive Tool for Frequent Subgraph Pattern Mining from a Big Graph. ICDE 202
     <div class="media-body">
        <p class="media-heading">
           <strong>Saugat Adhikari</strong>, Da Yan, Zhe Jiang, Jiao Han, Zelin Xu, Yupu Zhang, Arpan Man Sainju, Yang Zhou. Scaling
-Terrain-Aware Spatial Machine Learning for Flood Mapping on Large Scale Earth Imagery Data. (Under submission to ACM TSAS Journal)<br />
+Terrain-Aware Spatial Machine Learning for Flood Mapping on Large Scale Earth Imagery Data. ACM TSAS 2024<br />
        </p>
     </div>
 </div>
@@ -99,7 +99,15 @@ Terrain-Aware Spatial Machine Learning for Flood Mapping on Large Scale Earth Im
     <div class="media-body">
        <p class="media-heading">
           Guimu Guo, Da Yan, Lyuheng Yuan, <strong>Saugat Adhikari</strong>, Jalal Khalil, Cheng Long, and Lei Zou: G-thinkerQ: A
-General Subgraph Querying System with a Unified Task-Based Programming Model. (Under submission to TKDE Journal)<br />
+General Subgraph Querying System with a Unified Task-Based Programming Model. TKDE 2025<br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          Landon Dyken, <strong>Saugat Adhikari</strong>, Pravin Poudel, Steve Petruzza, Da Yan, Will Usher, Sidharth Kumar: Enabling Fast and Accurate Crowdsourced Annotation for Flood Extent Mapping. PacificVis 2025<br />
        </p>
     </div>
 </div>
