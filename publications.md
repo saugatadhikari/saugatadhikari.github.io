@@ -14,7 +14,7 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          Landon Dyken, <strong>Saugat Adhikari</strong>, Pravin Poudel, Steve Petruzza, Da Yan, Will Usher, Sidharth Kumar: Enabling Fast and Accurate Crowdsourced Annotation for Flood Extent Mapping. <strong>PacificVis 2025</strong><br />
+          <strong>Saugat Adhikari</strong>, Da Yan, Naman Nimbale, Weijin Liu, Xiaodong Yu, Akhlaque Ahmad, Lyuheng Yuan, Jiao Han, Zhe Jiang: EvaMAE: How Helpful Are DEM Data in Enhancing Geo-Foundation Models for Earth Imagery?. <strong>SIGSPATIAL 2025</strong><br />
        </p>
     </div>
 </div>
@@ -22,7 +22,15 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          Lyuheng Yuan, Da Yan, Akhlaque Ahmad, Jiao Han, <strong>Saugat Adhikari</strong>, Yang Zhou: Out-of-Core Parallel Spatial Join Outperforming In-Memory Systems: A BFS-DFS Hybrid Approach. <strong>HPDC 2025</strong> <strong>(Best Paper Nomine)</strong> <br />
+          Landon Dyken, <strong>Saugat Adhikari</strong>, Pravin Poudel, Steve Petruzza, Da Yan, Will Usher, Sidharth Kumar: Enabling Fast and Accurate Crowdsourced Annotation for Flood Extent Mapping. <strong>PacificVis 2025</strong><strong>(Honorable Mention)</strong><br/>
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          Lyuheng Yuan, Da Yan, Akhlaque Ahmad, Jiao Han, <strong>Saugat Adhikari</strong>, Yang Zhou: Out-of-Core Parallel Spatial Join Outperforming In-Memory Systems: A BFS-DFS Hybrid Approach. <strong>HPDC 2025</strong> <strong>(Best Paper Award)</strong> <br />
        </p>
     </div>
 </div>
@@ -32,6 +40,15 @@ title: Publications
        <p class="media-heading">
           Guimu Guo, Da Yan, Lyuheng Yuan, <strong>Saugat Adhikari</strong>, Jalal Khalil, Cheng Long, and Lei Zou: G-thinkerQ: A
 General Subgraph Querying System with a Unified Task-Based Programming Model. <strong>TKDE 2025</strong><br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          Akhlaque Ahmad, Da Yan, Xiao Chen, Lyuheng Yuan, Qin Zhang, <strong>Saugat Adhikari</strong>: Maximum k-Plex Finding:
+Choices of Pruning Techniques Matter!. <strong>VLDB 2025</strong><br />
        </p>
     </div>
 </div>

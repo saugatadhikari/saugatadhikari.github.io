@@ -6,7 +6,7 @@ title: Education
     <div class="media-body">
        <p class="media-heading">
           <strong>Ph.D. in Computer Science, Indiana University Bloomington, United States</strong><br />
-          Jan 2024 - Present (Transferred from UAB to IUB)<br />
+          Jan 2024 - May 2026 (expected)<br />
        </p>
     </div>
 </div>
