@@ -14,7 +14,7 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Saugat Adhikari</strong>, Da Yan, Naman Nimbale, Weijin Liu, Xiaodong Yu, Akhlaque Ahmad, Lyuheng Yuan, Jiao Han, Zhe Jiang: EvaMAE: How Helpful Are DEM Data in Enhancing Geo-Foundation Models for Earth Imagery?. <strong>SIGSPATIAL 2025</strong><br />
+          <strong>Saugat Adhikari</strong>, Da Yan, Naman Nimbale, Weijin Liu, Xiaodong Yu, Akhlaque Ahmad, Lyuheng Yuan, Jiao Han, Zhe Jiang: EvaMAE: How Helpful Are DEM Data in Enhancing Geo-Foundation Models for Earth Imagery? <strong>SIGSPATIAL 2025</strong><br />
        </p>
     </div>
 </div>
@@ -22,7 +22,7 @@ title: Publications
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          Landon Dyken, <strong>Saugat Adhikari</strong>, Pravin Poudel, Steve Petruzza, Da Yan, Will Usher, Sidharth Kumar: Enabling Fast and Accurate Crowdsourced Annotation for Flood Extent Mapping. <strong>PacificVis 2025</strong><strong>(Honorable Mention)</strong><br/>
+          Landon Dyken, <strong>Saugat Adhikari</strong>, Pravin Poudel, Steve Petruzza, Da Yan, Will Usher, Sidharth Kumar: Enabling Fast and Accurate Crowdsourced Annotation for Flood Extent Mapping. <strong>PacificVis 2025</strong> <strong>(Honorable Mention)</strong><br/>
        </p>
     </div>
 </div>
